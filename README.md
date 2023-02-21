@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour 👋 Moi c'est Brice
+
+ce github a pour but de rendre disponible et visible pour ceux qui le veulent mes production passées, présente et futurs .
 
 <!--
 **BriceBourret/BriceBourret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
